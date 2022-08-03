@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;1,200&display=swap');
+html,
+body {
+    /* width: 100%;
+    height: 100%; */
+    font-family:'Courier New', Courier, monospace
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 4px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+    background-color:rgb(201 201 201);
+    font-weight: bold;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0;
+    border: 4px solid black;
+    border-radius: 5px ;
+    width: 303px;
+    background-color: lightgray;
+}
